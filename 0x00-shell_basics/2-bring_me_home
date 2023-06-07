@@ -1,2 +1,2 @@
 #!/bin/bash
-cd user_name changes the working directory to the user’s home directory
+cd ~
